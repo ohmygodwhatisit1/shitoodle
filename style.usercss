@@ -1,0 +1,64 @@
+.columnright {
+    display: none;
+}
+
+#h_leftblock_wrapper {
+    display: none;
+}
+
+#block-region-side-content-top {
+    display: none;
+}
+
+.footer_logoimage_text {
+    display: none;
+}
+
+#f_social_wrapper {
+    display: none;
+}
+
+#copyright {
+    display: none;
+}
+
+#rm3kl {
+    display: none;
+}
+
+.langmenu_controller {
+    display: none;
+}
+
+#page-footer {
+    display: none;
+}
+
+#page-header .h_top_wrapper {
+    background-image: none;
+}
+
+#dock_item_1_title {
+    background-image: none;
+}
+
+#dock_item_0_title {
+    background-image: none;
+}
+
+.dockedtitle iconview {
+    background-image: none;
+}
+
+#dock_bg {
+    background-image: none;
+    background-color: #1295d0;
+}
+
+.crw_cs_cattile_img {
+    background-image: none;
+}
+
+/* #page-wrapper .headermain {
+    display: none;
+} */

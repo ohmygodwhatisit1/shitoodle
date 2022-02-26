@@ -8,6 +8,7 @@
 @author      bmkrtychan
 ==/UserStyle== */
 
+@-moz-document url-prefix("http://91.230.154.128/") {
 .columnright {
     display: none;
 }
@@ -48,18 +49,6 @@
     background-image: none;
 }
 
-#dock_item_1_title {
-    background-image: none;
-}
-
-#dock_item_0_title {
-    background-image: none;
-}
-
-.dockedtitle iconview {
-    background-image: none;
-}
-
 #dock_bg {
     background-image: none;
     background-color: #1295d0;
@@ -67,8 +56,5 @@
 
 .crw_cs_cattile_img {
     background-image: none;
+    }
 }
-
-/* #page-wrapper .headermain {
-    display: none;
-} */

@@ -1,9 +1,9 @@
 /* ==UserStyle==
 @name        Shitoodle
 @namespace   bmkrtychan
-@version     0.0.1
+@version     0.0.2
 @homepageURL https://github.com/ohmygodwhatisit1/shitoodle
-@updateURL   https://raw.githubusercontent.com/ohmygodwhatisit1/shitoodle/master/userstyle.css
+@updateURL   https://raw.githubusercontent.com/ohmygodwhatisit1/shitoodle/master/shitoodle.user.css
 @license     CC-BY-SA-4.0
 @author      bmkrtychan
 ==/UserStyle== */
@@ -56,5 +56,5 @@
 
 .crw_cs_cattile_img {
     background-image: none;
-    }
+}
 }

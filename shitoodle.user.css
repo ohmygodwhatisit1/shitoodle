@@ -16,6 +16,10 @@
 #h_leftblock_wrapper {
     display: none;
 }
+    
+.breadcrumb-button ml-auto d-flex {
+    display: none;
+    }
 
 #block-region-side-content-top {
     display: none;
